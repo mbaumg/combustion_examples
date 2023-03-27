@@ -1,6 +1,6 @@
 name: combustion
 channels:
-  - conda-forge
+  - conda
   - defaults
 dependencies:
   - scipy==1.7.3
