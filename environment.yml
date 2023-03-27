@@ -1,8 +1,8 @@
-name: baum_environment
+name: combustion
 channels:
-  - cantera
-  - conda
+  - conda-forge
 dependencies:
+  - python
   - cantera
   - matplotlib
   - pandas
