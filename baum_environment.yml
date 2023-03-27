@@ -1,0 +1,11 @@
+name: baum_environment
+channels:
+  - cantera
+  - conda
+dependencies:
+  - cantera
+  - matplotlib
+  - pandas
+  - scipy
+  - numpy
+  - coolprop
