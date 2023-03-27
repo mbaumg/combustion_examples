@@ -6,7 +6,6 @@ dependencies:
   - scipy
   - numpy
   - matplotlib
-  - cantera==2.6.0
+  - cantera
   - pandas
-  - pip:
-    - coolprop==6.4.1
+  - coolprop
